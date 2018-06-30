@@ -1,0 +1,23 @@
+﻿@page
+@model CreateModel
+@{
+}
+<div>
+    <h2>Add Item</h2>
+    <div>
+        <form method="post">
+            <input asp-for="Song.ArtistName" type="text" placeholder="Artist Name" />
+            <span asp-validation-for="Song.ArtistName"></span>
+            <input asp-for="Song.AlbumName" type="text" placeholder="Album Name" />
+            <span asp-validation-for="Song.AlbumName"></span>
+            <input asp-for="Song.Rating" type="text" placeholder="Rating" />
+            <span asp-validation-for="Song.Rating"></span>
+            <input type="submit" value="Add More"/>
+            <a asp-page="index">Back to List</a>
+            
+            
+            
+
+            </form>
+        </div>
+    </div>

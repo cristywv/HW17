@@ -1,0 +1,11 @@
+C:\Users\Christy Vang\source\repos\Music\Music\bin\Debug\netcoreapp2.0\Music.deps.json
+C:\Users\Christy Vang\source\repos\Music\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.json
+C:\Users\Christy Vang\source\repos\Music\Music\bin\Debug\netcoreapp2.0\Music.runtimeconfig.dev.json
+C:\Users\Christy Vang\source\repos\Music\Music\bin\Debug\netcoreapp2.0\Music.dll
+C:\Users\Christy Vang\source\repos\Music\Music\bin\Debug\netcoreapp2.0\Music.pdb
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.csprojAssemblyReference.cache
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfoInputs.cache
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.AssemblyInfo.cs
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.dll
+C:\Users\Christy Vang\source\repos\Music\Music\obj\Debug\netcoreapp2.0\Music.pdb
